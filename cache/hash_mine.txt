@@ -2511,6 +2511,7 @@
 7054c6d6bec0ec79b516af8e8830e6eb  ./assets/minecraft/textures/entity/bed/pink.png
 707085977b9cd1826f8bab45276e69c9  ./assets/minecraft/blockstates/dead_brain_coral_fan.json
 7074404af0e405d54e1e2d59a2b897cc  ./assets/minecraft/models/block/twisting_vines_plant.json
+7075df6082659bfba167ca67bf9208df  ./assets/minecraft/lang/en_us.json
 70806c2f28ec0d9811bfb389428adc19  ./assets/minecraft/models/item/iron_sword.json
 70c52477d7dd62b21152b7d1eeb12c6c  ./assets/minecraft/textures/item/clock_33.png
 70dc34504addb67e5359bce5d7366b33  ./assets/minecraft/textures/block/brain_coral_block.png
@@ -3393,7 +3394,6 @@
 99c6b83b66146ee03b53a5e0a6427ecb  ./assets/minecraft/blockstates/dark_oak_wood.json
 99c9136ece456ca0417a3b9b395e91d7  ./assets/minecraft/textures/font/unicode_page_98.png
 99d9b8f8ecc013bfc122d41da499e686  ./assets/minecraft/textures/item/charcoal.png
-99dbd783ca0d42f87fb45b93e84c9192  ./assets/minecraft/lang/en_us.json
 99dc5077d0e29dc73d61c4e987b0e4a5  ./assets/minecraft/models/block/crimson_fence_post.json
 99f4361eaf81e4105da10f5f271ac110  ./assets/minecraft/models/block/end_stone_brick_slab.json
 99ff6c4e650e8ec0c68e8fd16755bd1a  ./assets/minecraft/models/block/green_shulker_box.json

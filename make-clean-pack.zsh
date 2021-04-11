@@ -28,3 +28,5 @@ setopt RC_EXPAND_PARAM
 rsync -Rav $mc_full/./${file_diff} $mc_clean/
 
 cd $mc_clean ; zip -rv ../my_pack_clean.zip * ; cd -
+
+git commit -am 'Automated commit'
