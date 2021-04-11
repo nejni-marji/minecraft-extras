@@ -4264,6 +4264,7 @@ c21ee46c1d3c35617aa233e4c9c11da9  ./assets/minecraft/textures/item/egg.png
 c237927ab29895fe19dca7de360069b4  ./assets/minecraft/models/item/oak_planks.json
 c24c12b7280ab8731469450fb5e06ba6  ./assets/minecraft/models/block/spruce_planks.json
 c2718c99c82b3b8ab4f8bde63f2802fb  ./assets/minecraft/blockstates/brown_concrete_powder.json
+c2749a8d466ef1db446783b892de706c  ./assets/minecraft/textures/painting/fighters.png
 c278e457f9bd7c058c09185e0ba53569  ./assets/minecraft/models/item/cooked_chicken.json
 c286d06cb4525ae94b7f47f1f03750d4  ./assets/minecraft/textures/item/lime_dye.png
 c28def86e9544cdd044fecf43e43ae71  ./assets/minecraft/models/block/spruce_sign.json
@@ -4915,7 +4916,6 @@ e12064384ff57dfe50f127e94fed8b0b  ./assets/minecraft/textures/particle/soul_6.pn
 e12107ecfa7aa0d2c6b0eedd3b977e9f  ./assets/minecraft/models/block/three_slightly_cracked_turtle_eggs.json
 e139ca37773fdefc3f2a4507e3356a5e  ./assets/minecraft/models/block/crimson_door_top_hinge.json
 e1530a610acb0c86433ba2ac4c9074a4  ./assets/minecraft/textures/item/compass_02.png
-e15564ac3cd3d3ccfe445d70de46581e  ./assets/minecraft/textures/painting/fighters.png
 e15af658ac4803ee4a6fa6e216d05b4a  ./assets/minecraft/models/block/light_gray_shulker_box.json
 e17ae3016f843f35bfcad273dbee47ce  ./assets/minecraft/blockstates/bee_nest.json
 e17bb4270baba688eba25c4c7d10caa4  ./assets/minecraft/blockstates/andesite_stairs.json
