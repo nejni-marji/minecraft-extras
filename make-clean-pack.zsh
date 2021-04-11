@@ -29,4 +29,5 @@ rsync -Rav $mc_full/./${file_diff} $mc_clean/
 
 cd $mc_clean ; zip -rv ../my_pack_clean.zip * ; cd -
 
-git commit -am 'Automated commit'
+git add -A
+git commit -m 'Automated commit'
