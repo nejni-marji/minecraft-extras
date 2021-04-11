@@ -4883,6 +4883,7 @@ dedc7620408459fa434366b138459d00  ./assets/minecraft/blockstates/azure_bluet.jso
 deeb86e3cb78f8dd337f741f441ca77d  ./assets/minecraft/textures/block/crafting_table_front.png
 deebed20f4b09eda0237d3eee6bb6db9  ./assets/minecraft/blockstates/dead_tube_coral.json
 df0eed3b528ffb0b39d4914905b3c267  ./assets/minecraft/models/block/green_concrete_powder.json
+df17f31e8a1888760e0f14e020e98785  ./clouds.png
 df383f547da1d2921408589f5152ede7  ./assets/minecraft/models/item/purple_shulker_box.json
 df3b704526901c7237bec2d69212e9ff  ./assets/minecraft/models/item/scaffolding.json
 df509a19c59e6b443b03d7c8ef57c713  ./assets/minecraft/textures/block/cauldron_side.png
