@@ -1199,6 +1199,7 @@
 38d94b02ecf69b43e8275be48a158030  ./assets/minecraft/blockstates/green_concrete.json
 38e33cd9252d1c5cba05a61c84cec9b4  ./assets/minecraft/models/block/black_wool.json
 38f83ab68ebfcddc428c8b9167e29a0c  ./assets/minecraft/models/block/observer_on.json
+3911dc2c818fc00846479ea20b868cca  ./assets/minecraft/lang/en_us.json
 392db6301201d59f3a7fb09108c9a23c  ./assets/minecraft/models/block/smithing_table.json
 393f4999e207f4a1256452e59155d0a2  ./assets/minecraft/particles/falling_lava.json
 393f4999e207f4a1256452e59155d0a2  ./assets/minecraft/particles/falling_water.json
@@ -3155,7 +3156,6 @@
 8ed01f53d6d85f23bd10507b5cb04f36  ./assets/minecraft/blockstates/oak_sapling.json
 8edf73df76d04c06d7ca66284483fefd  ./assets/minecraft/textures/block/weeping_vines_plant.png
 8ee301bb4d7c053fb8fc783c45b7e798  ./assets/minecraft/models/block/purple_shulker_box.json
-8f1881d3f180910bfc72cafb31f8d5c5  ./assets/minecraft/lang/en_us.json
 8f1fc75f58bb90b33af0a2226415df2e  ./assets/minecraft/textures/block/light_blue_stained_glass.png
 8f22d292b6889baf7d43b798660fe861  ./assets/minecraft/textures/block/tnt_bottom.png
 8f2e4d8fbeb9e2d65027457337c3a670  ./assets/minecraft/textures/entity/cat/ocelot.png
@@ -3936,6 +3936,7 @@ b22e23dcdc9d1d44d4020a9af81ca885  ./assets/minecraft/textures/block/loom_top.png
 b24209404849bc28e6fbdcc1dd823ce7  ./assets/minecraft/blockstates/attached_melon_stem.json
 b2543ed3c96738bb9e7e32227f3c50ef  ./assets/minecraft/models/block/sunflower_bottom.json
 b25a45e091e918d1c739f7bfb9964010  ./assets/minecraft/models/block/acacia_button_pressed.json
+b266a855ac691791a66b1d6eac906b7f  ./assets/minecraft/textures/environment/clouds.png
 b27315a7e4fd721923b2505d90047a87  ./assets/minecraft/blockstates/gray_terracotta.json
 b27788c8bbec7e04a0170ebea5876d55  ./assets/minecraft/models/block/soul_fire_side1.json
 b279a306c4a13e78b0b374dba1d31161  ./assets/minecraft/textures/item/iron_shovel.png
@@ -4882,7 +4883,6 @@ dedc7620408459fa434366b138459d00  ./assets/minecraft/blockstates/azure_bluet.jso
 deeb86e3cb78f8dd337f741f441ca77d  ./assets/minecraft/textures/block/crafting_table_front.png
 deebed20f4b09eda0237d3eee6bb6db9  ./assets/minecraft/blockstates/dead_tube_coral.json
 df0eed3b528ffb0b39d4914905b3c267  ./assets/minecraft/models/block/green_concrete_powder.json
-df17f31e8a1888760e0f14e020e98785  ./assets/minecraft/textures/environment/clouds.png
 df383f547da1d2921408589f5152ede7  ./assets/minecraft/models/item/purple_shulker_box.json
 df3b704526901c7237bec2d69212e9ff  ./assets/minecraft/models/item/scaffolding.json
 df509a19c59e6b443b03d7c8ef57c713  ./assets/minecraft/textures/block/cauldron_side.png
