@@ -33,6 +33,8 @@ git add -A
 git commit -m 'Automated commit'
 git push origin master
 
+exit
+
 printf '%0.s#' {1..$COLUMNS} ; print
 echo 'Saving SHA1 hash to clipboard and opening server.properties file...'
 mc_hash="$(sha1sum $mc_clean.zip | cut -c-40 | perl -pe chomp)"
