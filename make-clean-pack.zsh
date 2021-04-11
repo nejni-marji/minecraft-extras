@@ -33,14 +33,15 @@ git add -A
 git commit -m 'Automated commit'
 git push origin master
 
-exit
+
 
 printf '%0.s#' {1..$COLUMNS} ; print
-echo 'Saving SHA1 hash to clipboard and opening server.properties file...'
-mc_hash="$(sha1sum $mc_clean.zip | cut -c-40 | perl -pe chomp)"
-echo -n "$mc_hash" | xsel -bi
+echo 'Attempting to update server.properties automatically...'
+commit_id=$(git log | head -n1 | cut -c8-)
+mc_url="https://github.com/nejni-marji/minecraft-extras/raw/$commit_id/my_pack_clean.zip"
+
 < ~/Games/minecraft/server/server.properties \
-	| perl -pe 's#^resource-pack-sha1=[0-9a-fA-F]{40}$#resource-pack-sha1='"${mc_hash}"'#' \
+	| perl -pe 's#^resource-pack=.*#resource-pack='"${mc_url}"'#' \
 	> ~/Games/minecraft/server/server.properties.tmp
 
 < ~/Games/minecraft/server/server.properties.tmp > ~/Games/minecraft/server/server.properties

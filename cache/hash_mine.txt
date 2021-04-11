@@ -2600,7 +2600,6 @@
 75292f95b8ac28ef54aed7d6496ae4cf  ./assets/minecraft/models/item/cobblestone_wall.json
 752d7a57b6667c369c411a607f38373d  ./assets/minecraft/textures/entity/llama/decor/trader_llama.png
 75368e1bc91a2f21a561aadccbe52428  ./assets/minecraft/textures/effect/dither.png
-75594652431e80d0a5624a13e8affea6  ./assets/minecraft/lang/en_us.json
 75647a2865169a3f0ce45c899ab7e004  ./assets/minecraft/models/block/birch_sapling.json
 756cc9563ff0758fa14fae373770322e  ./assets/minecraft/models/block/anvil.json
 756f44e503554525fa4e4b25b089c528  ./assets/minecraft/models/block/basalt.json
@@ -3156,6 +3155,7 @@
 8ed01f53d6d85f23bd10507b5cb04f36  ./assets/minecraft/blockstates/oak_sapling.json
 8edf73df76d04c06d7ca66284483fefd  ./assets/minecraft/textures/block/weeping_vines_plant.png
 8ee301bb4d7c053fb8fc783c45b7e798  ./assets/minecraft/models/block/purple_shulker_box.json
+8f1881d3f180910bfc72cafb31f8d5c5  ./assets/minecraft/lang/en_us.json
 8f1fc75f58bb90b33af0a2226415df2e  ./assets/minecraft/textures/block/light_blue_stained_glass.png
 8f22d292b6889baf7d43b798660fe861  ./assets/minecraft/textures/block/tnt_bottom.png
 8f2e4d8fbeb9e2d65027457337c3a670  ./assets/minecraft/textures/entity/cat/ocelot.png
