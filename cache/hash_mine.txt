@@ -1865,6 +1865,7 @@
 562a6e070a7e69cbab754b8253956d8e  ./assets/minecraft/models/item/cartography_table.json
 56590dc57dc0b5a5bd5368eab29ad237  ./assets/minecraft/textures/block/redstone_lamp_on.png
 565be0db494fd1df3b0324139e944c05  ./assets/minecraft/models/block/beetroots_stage2.json
+5663bd8c78996452a8abbb48c39d84a5  ./assets/minecraft/textures/painting/pigscene.png
 566f773345d67af2a26952edf27b1ac3  ./assets/minecraft/models/block/stone_brick_wall_side_tall.json
 56707ddc600e7dad258d4b583220682b  ./assets/minecraft/models/item/yellow_shulker_box.json
 56742db30026d5bccc746b19ff8c1bd5  ./assets/minecraft/models/item/stripped_spruce_wood.json
@@ -5174,7 +5175,6 @@ ee3fe492a05eeda3f2e9d47de17d64bf  ./assets/minecraft/textures/entity/chest/norma
 ee50e40fad53d23f95b181999cd13367  ./assets/minecraft/models/block/gray_stained_glass.json
 ee5354fb116d403d52235999263f119d  ./assets/minecraft/blockstates/cornflower.json
 ee5cc4565b8bdd1c372f76e5a749b3c4  ./assets/minecraft/models/block/oak_stairs.json
-ee6272d3fc2aa65c5525a9d58bddf5dd  ./assets/minecraft/textures/painting/pigscene.png
 ee6389c4bdefb335d9e5a6c6cda07c48  ./assets/minecraft/models/block/chorus_flower.json
 ee7a4f7f52db475722fbb17895c9c30e  ./assets/minecraft/models/item/wooden_hoe.json
 ee8087f26cf11c4deb49c865e91116e7  ./assets/minecraft/textures/entity/chest/trapped_left.png
