@@ -2316,7 +2316,6 @@
 67b4ffd691a25480cfe9031f4176a874  ./assets/minecraft/textures/painting/skull_and_roses.png
 67c4cf5049c53fc3da03a78177522ffa  ./assets/minecraft/models/block/red_sandstone_wall_post.json
 67c80e045bcbaa40f0f71fccf41392fc  ./assets/minecraft/blockstates/magenta_glazed_terracotta.json
-67c85d94b036212c5a0792ed55618e5f  ./assets/minecraft/textures/painting/burning_skull.png
 67de5e6e4c11233b8a6033e878b77742  ./assets/minecraft/textures/block/light_gray_terracotta.png
 67f57297e1b1acea87eb90c791341eb0  ./assets/minecraft/models/item/paper.json
 67fa3e3e77eeacc101bce6ed9f04c76b  ./assets/minecraft/shaders/post/blobs2.json
@@ -3662,6 +3661,7 @@ a664e54aa47ec474b973dbb1394a1f3e  ./assets/minecraft/blockstates/light_blue_wool
 a667dfe8196099ca1bfdb8d61ed32470  ./assets/minecraft/textures/block/sandstone.png
 a67252e722976f3b205d5cb76e21fa0f  ./assets/minecraft/models/block/granite_stairs_outer.json
 a67cfda4c7237214ae45ca15c52a0076  ./assets/minecraft/models/item/blue_wool.json
+a6838d5c7cf228817aa923a4ed11afbf  ./assets/minecraft/textures/painting/burning_skull.png
 a685efd608d7db343d6c7275f4e4ee88  ./assets/minecraft/models/block/oak_trapdoor_bottom.json
 a686cf03caf91ca39637517e88167656  ./assets/minecraft/blockstates/terracotta.json
 a68e1527e8a725a8cf229593568b96f0  ./assets/minecraft/models/block/kelp_plant.json
@@ -3936,7 +3936,6 @@ b22e23dcdc9d1d44d4020a9af81ca885  ./assets/minecraft/textures/block/loom_top.png
 b24209404849bc28e6fbdcc1dd823ce7  ./assets/minecraft/blockstates/attached_melon_stem.json
 b2543ed3c96738bb9e7e32227f3c50ef  ./assets/minecraft/models/block/sunflower_bottom.json
 b25a45e091e918d1c739f7bfb9964010  ./assets/minecraft/models/block/acacia_button_pressed.json
-b266a855ac691791a66b1d6eac906b7f  ./assets/minecraft/textures/environment/clouds.png
 b27315a7e4fd721923b2505d90047a87  ./assets/minecraft/blockstates/gray_terracotta.json
 b27788c8bbec7e04a0170ebea5876d55  ./assets/minecraft/models/block/soul_fire_side1.json
 b279a306c4a13e78b0b374dba1d31161  ./assets/minecraft/textures/item/iron_shovel.png
@@ -4883,7 +4882,7 @@ dedc7620408459fa434366b138459d00  ./assets/minecraft/blockstates/azure_bluet.jso
 deeb86e3cb78f8dd337f741f441ca77d  ./assets/minecraft/textures/block/crafting_table_front.png
 deebed20f4b09eda0237d3eee6bb6db9  ./assets/minecraft/blockstates/dead_tube_coral.json
 df0eed3b528ffb0b39d4914905b3c267  ./assets/minecraft/models/block/green_concrete_powder.json
-df17f31e8a1888760e0f14e020e98785  ./clouds.png
+df17f31e8a1888760e0f14e020e98785  ./assets/minecraft/textures/environment/clouds.png
 df383f547da1d2921408589f5152ede7  ./assets/minecraft/models/item/purple_shulker_box.json
 df3b704526901c7237bec2d69212e9ff  ./assets/minecraft/models/item/scaffolding.json
 df509a19c59e6b443b03d7c8ef57c713  ./assets/minecraft/textures/block/cauldron_side.png
