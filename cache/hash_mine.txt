@@ -4265,7 +4265,6 @@ c21ee46c1d3c35617aa233e4c9c11da9  ./assets/minecraft/textures/item/egg.png
 c237927ab29895fe19dca7de360069b4  ./assets/minecraft/models/item/oak_planks.json
 c24c12b7280ab8731469450fb5e06ba6  ./assets/minecraft/models/block/spruce_planks.json
 c2718c99c82b3b8ab4f8bde63f2802fb  ./assets/minecraft/blockstates/brown_concrete_powder.json
-c2749a8d466ef1db446783b892de706c  ./assets/minecraft/textures/painting/fighters.png
 c278e457f9bd7c058c09185e0ba53569  ./assets/minecraft/models/item/cooked_chicken.json
 c286d06cb4525ae94b7f47f1f03750d4  ./assets/minecraft/textures/item/lime_dye.png
 c28def86e9544cdd044fecf43e43ae71  ./assets/minecraft/models/block/spruce_sign.json
@@ -4288,6 +4287,7 @@ c3570c8a6ab7fcb438e0e2e2e5c15861  ./assets/minecraft/models/item/netherite_picka
 c35834de3bfbf285c493a0fe525fac09  ./assets/minecraft/models/item/observer.json
 c359c1e470c068fa3f053c720065cca7  ./assets/minecraft/shaders/program/outline_watercolor.fsh
 c3827f1d046ca5478c67e208a6111aa3  ./assets/minecraft/textures/entity/illager/evoker.png
+c394a41ac19596a7c1706d14c8c47c99  ./assets/minecraft/textures/painting/fighters.png
 c397636b1191b4dc4c9a3deccb44d5eb  ./assets/minecraft/textures/particle/sweep_0.png
 c3bbc2c1c662098950cc5c14ac76f69e  ./assets/minecraft/models/block/red_sandstone_wall_side_tall.json
 c3c50a9f338e8540dd8ecc81625f2a65  ./assets/minecraft/blockstates/stripped_acacia_wood.json
