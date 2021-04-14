@@ -2447,6 +2447,7 @@
 6d7c06bec6d467b53a58d62c095fa768  ./assets/minecraft/blockstates/prismarine_wall.json
 6d80e6a2234ffc98326ce78c921d563f  ./assets/minecraft/textures/block/cartography_table_side3.png
 6d810bae80b1817720040d5bdabbb959  ./assets/minecraft/models/block/vine_4.json
+6d8702cbd20ca4b0945b58ddd30d6950  ./assets/minecraft/textures/painting/stage.png.mcmeta
 6d8791053fd88ad40633fb8bd6941c2a  ./assets/minecraft/textures/block/spruce_log.png
 6d961b2406f590cbfe7c8a9b09f7f1d2  ./assets/minecraft/blockstates/repeater.json
 6d9e890d5773a16f4df26d89840ed3a8  ./assets/minecraft/models/block/lime_glazed_terracotta.json
@@ -5334,7 +5335,6 @@ f607c654bcab59cf583c32534eb03744  ./assets/minecraft/models/item/compass_11.json
 f60aa56b387aa7f2843ed647117fdb60  ./assets/minecraft/models/block/acacia_log_horizontal.json
 f61a5011f1a71d4c8ce8dd302557f62b  ./assets/minecraft/models/block/green_carpet.json
 f624064df56968abb749b0f02dd07e22  ./assets/minecraft/models/block/stem_growth3.json
-f634e1ecd32c0e5b15cf5350baf5bfd7  ./assets/minecraft/textures/painting/stage.png.mcmeta
 f63d18de2937aaf174d77a747a5456db  ./assets/minecraft/textures/block/sunflower_front.png
 f664afa207a9cb0e895a65629f277161  ./assets/minecraft/textures/item/creeper_banner_pattern.png
 f664afa207a9cb0e895a65629f277161  ./assets/minecraft/textures/item/flower_banner_pattern.png
