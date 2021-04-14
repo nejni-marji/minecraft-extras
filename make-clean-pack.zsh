@@ -41,12 +41,13 @@ cd $mc_clean ; zip -rv ../$mc_clean.zip * ; cd -
 
 
 
+if [[ $1 == 'git' ]] ; then
+	printf '%0.s#' {1..$COLUMNS} ; print
 
-printf '%0.s#' {1..$COLUMNS} ; print
-
-git add -A
-git commit -m 'Automated commit'
-git push origin master
+	git add -A
+	git commit -m 'Automated commit'
+	git push origin master
+fi
 
 
 

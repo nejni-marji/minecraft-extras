@@ -2616,6 +2616,7 @@
 75c4b18cb45cb42a244ad7dc71dbc1c3  ./assets/minecraft/shaders/program/outline.fsh
 75c6b14b769e1b85419c9219fa70fa06  ./assets/minecraft/textures/entity/llama/decor/green.png
 75c80b0243b7956d737c10c14faa0540  ./assets/minecraft/textures/block/piston_top_sticky.png
+75daafca592e972697149ec81a2fb800  ./assets/minecraft/textures/painting/pointer.png
 75daafca592e972697149ec81a2fb800  ./assets/minecraft/textures/painting/stage.png
 75e65e7cad125bdb64afc67231ece934  ./assets/minecraft/textures/block/pink_shulker_box.png
 75ea1168252a896b3441c11b1925b53e  ./assets/minecraft/models/block/bamboo2_age1.json
@@ -2819,7 +2820,6 @@
 7efed8955531da56d62d4cc8007c89c1  ./assets/minecraft/models/block/frosted_ice_3.json
 7f1f0196b7b06dfa8d8512a086f051be  ./assets/minecraft/blockstates/chiseled_polished_blackstone.json
 7f23cbb95b5b00f4ecd14f23094e1c50  ./assets/minecraft/blockstates/snow_block.json
-7f395a8adf66c7fc63b9fca4c35245f2  ./assets/minecraft/textures/painting/pointer.png
 7f3dd456225317b9a71a7d33e63b8c3b  ./assets/minecraft/models/block/dark_oak_button.json
 7f3dea84b9328930b67895de12da73df  ./assets/minecraft/textures/font/unicode_page_ac.png
 7f46ace8b0f9d0c21f989c591a913d09  ./assets/minecraft/models/item/water_bucket.json
@@ -3097,6 +3097,7 @@
 8b3ace47e586b35b36008be686efdc89  ./assets/minecraft/blockstates/purple_wool.json
 8b49569e6c127438225cbc3ea9430fca  ./assets/minecraft/models/block/jungle_log.json
 8b503255c18e99e371c5901ad78e53fd  ./assets/minecraft/textures/entity/end_portal.png
+8b578748327322a770e006722de074da  ./assets/minecraft/textures/painting/pointer.png.mcmeta
 8b578748327322a770e006722de074da  ./assets/minecraft/textures/painting/stage.png.mcmeta
 8b5968c804e1b0fd67458c1509a9d053  ./assets/minecraft/blockstates/dark_oak_button.json
 8b5c06b2e1baa0446127b34a959221d6  ./assets/minecraft/models/block/torch.json
