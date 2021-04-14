@@ -2447,7 +2447,6 @@
 6d7c06bec6d467b53a58d62c095fa768  ./assets/minecraft/blockstates/prismarine_wall.json
 6d80e6a2234ffc98326ce78c921d563f  ./assets/minecraft/textures/block/cartography_table_side3.png
 6d810bae80b1817720040d5bdabbb959  ./assets/minecraft/models/block/vine_4.json
-6d8702cbd20ca4b0945b58ddd30d6950  ./assets/minecraft/textures/painting/stage.png.mcmeta
 6d8791053fd88ad40633fb8bd6941c2a  ./assets/minecraft/textures/block/spruce_log.png
 6d961b2406f590cbfe7c8a9b09f7f1d2  ./assets/minecraft/blockstates/repeater.json
 6d9e890d5773a16f4df26d89840ed3a8  ./assets/minecraft/models/block/lime_glazed_terracotta.json
@@ -3098,6 +3097,7 @@
 8b3ace47e586b35b36008be686efdc89  ./assets/minecraft/blockstates/purple_wool.json
 8b49569e6c127438225cbc3ea9430fca  ./assets/minecraft/models/block/jungle_log.json
 8b503255c18e99e371c5901ad78e53fd  ./assets/minecraft/textures/entity/end_portal.png
+8b578748327322a770e006722de074da  ./assets/minecraft/textures/painting/stage.png.mcmeta
 8b5968c804e1b0fd67458c1509a9d053  ./assets/minecraft/blockstates/dark_oak_button.json
 8b5c06b2e1baa0446127b34a959221d6  ./assets/minecraft/models/block/torch.json
 8b8ca72f7bc5cd58aa4dd9edf176090e  ./assets/minecraft/textures/entity/fish/tropical_b_pattern_3.png
