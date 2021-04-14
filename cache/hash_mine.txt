@@ -2616,6 +2616,7 @@
 75c4b18cb45cb42a244ad7dc71dbc1c3  ./assets/minecraft/shaders/program/outline.fsh
 75c6b14b769e1b85419c9219fa70fa06  ./assets/minecraft/textures/entity/llama/decor/green.png
 75c80b0243b7956d737c10c14faa0540  ./assets/minecraft/textures/block/piston_top_sticky.png
+75daafca592e972697149ec81a2fb800  ./assets/minecraft/textures/painting/stage.png
 75e65e7cad125bdb64afc67231ece934  ./assets/minecraft/textures/block/pink_shulker_box.png
 75ea1168252a896b3441c11b1925b53e  ./assets/minecraft/models/block/bamboo2_age1.json
 75f11a245c22e05778c5360fe6a1fe95  ./assets/minecraft/models/item/chorus_fruit.json
@@ -5333,6 +5334,7 @@ f607c654bcab59cf583c32534eb03744  ./assets/minecraft/models/item/compass_11.json
 f60aa56b387aa7f2843ed647117fdb60  ./assets/minecraft/models/block/acacia_log_horizontal.json
 f61a5011f1a71d4c8ce8dd302557f62b  ./assets/minecraft/models/block/green_carpet.json
 f624064df56968abb749b0f02dd07e22  ./assets/minecraft/models/block/stem_growth3.json
+f634e1ecd32c0e5b15cf5350baf5bfd7  ./assets/minecraft/textures/painting/stage.png.mcmeta
 f63d18de2937aaf174d77a747a5456db  ./assets/minecraft/textures/block/sunflower_front.png
 f664afa207a9cb0e895a65629f277161  ./assets/minecraft/textures/item/creeper_banner_pattern.png
 f664afa207a9cb0e895a65629f277161  ./assets/minecraft/textures/item/flower_banner_pattern.png
@@ -5384,7 +5386,6 @@ f81ad71d9e303b4e0723b0d6210964ab  ./assets/minecraft/blockstates/fire_coral.json
 f81bd2d30591c6ee8a81cc0d31662828  ./assets/minecraft/blockstates/red_stained_glass_pane.json
 f827daca4065b44d8c52700353e38275  ./assets/minecraft/textures/block/pumpkin_side.png
 f830534367701bc6c74a4fa293a05d63  ./assets/minecraft/blockstates/stripped_oak_log.json
-f84644b988d622f62252714559a413f7  ./assets/minecraft/textures/painting/stage.png
 f846c94d8c1cd37f8b6dcbbf9db64000  ./assets/minecraft/blockstates/dispenser.json
 f850820b062adaed9f0cabfdd30b878f  ./assets/minecraft/models/block/redstone_dust_side_alt0.json
 f8514a227f649bd5de4713abd8523995  ./assets/minecraft/textures/block/white_terracotta.png
